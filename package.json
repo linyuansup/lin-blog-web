@@ -9,8 +9,16 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "axios": "^1.2.1",
+    "element-plus": "^2.2.26",
+    "highlight.js": "^11.7.0",
+    "path": "^0.12.7",
+    "sass": "^1.56.2",
+    "sass-loader": "^13.2.0",
     "vue": "^3.2.45",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "vuetify": "^3.0.4"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
