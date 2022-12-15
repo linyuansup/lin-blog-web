@@ -13,7 +13,7 @@
         <router-view />
     </div>
     <div class="footer">
-        <div>测试阶段，仅用于网站设计课程结课</div>
+        <div>测试阶段，仅用于网站设计课程结课 by 李天阳</div>
         <div>请勿用于其他用途</div>
     </div>
 </template>
